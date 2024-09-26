@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Team OlySparks Home Site</title>
+    <link>https://olyspark.github.io/blog/</link>
+    <description>Recent content in Blog on Team OlySparks Home Site</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2024, Shaojun Wang.</copyright>
+    <lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://olyspark.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Team Meeting</title>
+      <link>https://olyspark.github.io/first-team-meeting/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://olyspark.github.io/first-team-meeting/</guid>
+      <description>&lt;p&gt;We had our first meeting OMG so awesome. Maybe post pictures here?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
